@@ -2,7 +2,7 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22,10 * * *'
+    - cron: '0 10 */2 * *'
   workflow_dispatch:
     branches:
       - master
@@ -54,7 +54,7 @@ jobs:
       - name: Install selenium
         if: env.OPEN_DRIVER == 'True'
         run: pipenv install selenium
-      - name: Update
+      - name: 更新
         run: pipenv run dev
       - name: Commit and push if changed
         run: |
