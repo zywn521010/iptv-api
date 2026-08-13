@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-11 19:01:34,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-13 19:11:32,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -7,5 +7,6 @@ CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
+东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
