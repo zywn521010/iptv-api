@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-11-14 01:38:17,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-11-16 00:56:37,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
